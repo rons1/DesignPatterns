@@ -17,7 +17,7 @@ A set of objects that can pass a process throght a flow. Each object is handling
 ## 7 - Visitor
 1. To combine an existing functionallity to many classes
 2. To Add a new functionallity to many classes
-* Disadvantage: You will always have to update the IVisitor after you add new class
+Disadvantage: You will always have to update the IVisitor after you add new class
 
 ## 8 - Adapter
 1. Useful for an old code
