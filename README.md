@@ -2,12 +2,12 @@
 Course
 
 ## 1 - Singleton
+- Useful when you want to create only one unstance of object from a class
 
 ## 2 - Factory
-
+- Faunction that generate and returns an object from the specified class
 ## 3 - State
-
-
+- An imlementation to a state machine
 
 ## 4 - Chain Of Responsibility
 - A set of objects that can pass a process throght a flow
@@ -15,24 +15,27 @@ Course
 - The order of the steps is 
 
 ## 5 - Composite
+- An implementation to containers and objects inside them
+- An implementation to trees, subtrees and leaves
 
 ## 6 - Prototype
+- Maked a deep Clone to an object
 
 ## 7 - Visitor
-1. To combine an existing functionallity to many classes
-2. To Add a new functionallity to many classes
-3. Disadvantage: You will always have to update the IVisitor after you add new class
-4. All the logic is implemented in the Visitor Class
+- To combine an existing functionallity to many classes
+- To Add a new functionallity to many classes
+- Disadvantage: You will always have to update the IVisitor after you add new class
+- All the logic is implemented in the Visitor Class
 
 ## 8 - Adapter
-1. Useful for an old code
-2. Can be useful for a third party code
+- Useful for an old code
+- Can be useful for a third party code
 
 ## 9 - Memento
-1. Remineds Undo and Redo
-2. You can save a state and return to it when you decide
+- Remineds Undo and Redo
+- You can save a state and return to it when you decide
 
 ## 10 - TemplateMethod
-1. Useful for code reuse
-2. Useful for running same code with minor changes each time
-3. Useful when set of functions run every time
+- Useful for code reuse
+- Useful for running same code with minor changes each time
+- Useful when set of functions run every time
