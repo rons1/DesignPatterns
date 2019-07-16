@@ -39,3 +39,6 @@ Course
 - Useful for code reuse
 - Useful for running same code with minor changes each time
 - Useful when set of functions run every time
+
+## 11 - Strategy
+- When you want to use Has-A instead of Is-A
