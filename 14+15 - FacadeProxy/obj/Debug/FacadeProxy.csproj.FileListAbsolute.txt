@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\Decorator\FacadeProxy\bin\Debug\FacadeProxy.exe.config
+C:\Users\HackerU\source\repos\Decorator\FacadeProxy\bin\Debug\FacadeProxy.exe
+C:\Users\HackerU\source\repos\Decorator\FacadeProxy\bin\Debug\FacadeProxy.pdb
+C:\Users\HackerU\source\repos\Decorator\FacadeProxy\obj\Debug\FacadeProxy.csprojAssemblyReference.cache
+C:\Users\HackerU\source\repos\Decorator\FacadeProxy\obj\Debug\FacadeProxy.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\Decorator\FacadeProxy\obj\Debug\FacadeProxy.exe
+C:\Users\HackerU\source\repos\Decorator\FacadeProxy\obj\Debug\FacadeProxy.pdb
