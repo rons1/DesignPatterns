@@ -42,3 +42,6 @@ Course
 
 ## 11 - Strategy
 - When you want to use Has-A instead of Is-A
+
+## 12 - Decorator
+- When you want to modify an object many times, every time modify the most updated object
