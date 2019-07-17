@@ -6,6 +6,7 @@ Course
 
 ## 2 - Factory
 - Faunction that generate and returns an object from the specified class
+
 ## 3 - State
 - An imlementation to a state machine
 
@@ -45,3 +46,6 @@ Course
 
 ## 12 - Decorator
 - When you want to modify an object many times, every time modify the most updated object
+
+## 13 - Builder
+- When you want to manage a set of objects and create an object from that set
